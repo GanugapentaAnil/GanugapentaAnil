@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganugapentaanil&label=Profile%20views&color=0e75b6&style=flat" alt="ganugapentaanil" /> </p>
 
-- 🔭 I’m currently working on **Movie Recommendation system, Resume screening, Smileguru data analysis**
+- 🔭 I’m currently working on **Resume screening, Smileguru data analysis**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Data science and Analysis**
 
-- 👯 I’m looking to collaborate on **Data science**
+- 👯 I’m looking to collaborate on **Data science and Analysis**
 
-- 📝 I regularly write articles on [Data science](Data science)
+- 
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, Python, Deep Learning, MySQL**
+- 💬 Ask me about **Artificial Intelligence Tools, Machine Learning, Python, MySQL, Data Analytics**
 
 - 📫 How to reach me **anilanilg457@gmail.com**
 
