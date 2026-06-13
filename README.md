@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganugapentaanil&label=Profile%20views&color=0e75b6&style=flat" alt="ganugapentaanil" /> </p>
 
-- 🔭 I’m currently working on **Resume screening, Smileguru data analysis**
+- 🔭 I have worked on **Resume screening, Smileguru data analysis**
 
 - 🌱 I’m currently learning **Data science and Analysis**
 
